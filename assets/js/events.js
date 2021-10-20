@@ -1,4 +1,4 @@
-const createLoremIpsum = require("./helpers");
+const createLoremIpsum = require("./helper.js");
 require("bootstrap");
 const createEl = require("./domMethods");
 
