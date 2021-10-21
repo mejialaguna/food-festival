@@ -71,10 +71,9 @@ self.addEventListener("fetch", function (e) {
 
       // You can omit if/else for console.log & put one line below like this too.
       // return request || fetch(e.request)
+      
     })
   );
 });
 
 
-// "@webpack-cli/serve": "^1.6.0",
-    // "webpack-dev-server": "^4.3.1"

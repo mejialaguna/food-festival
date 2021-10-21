@@ -1,6 +1,6 @@
 const { createLoremIpsum, dateConverter } = require("./helper.js");
 require("bootstrap");
-const createEl = require("./domMethods");
+const createEl = require("./domMethods.js");
 
 
 if (window.location.href.indexOf("schedule") > -1) {

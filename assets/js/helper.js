@@ -30,4 +30,4 @@ dateConverter = function (UNIX_timestamp) {
 };
 
 
-module.exports = { dateConverter , createLoremIpsum}
+module.exports = { dateConverter , createLoremIpsum };
